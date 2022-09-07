@@ -17,8 +17,7 @@ for letter in sequence:
         T += 1
     elif letter == "C":
         C += 1  #changed from else statement --> resulted in one more C because read() adds an extra white space
-    else:
-        misc += 1
+
 print(str(A)+" "+str(C)+" "+str(G)+" "+str(T))
 
 
