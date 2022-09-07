@@ -1,4 +1,4 @@
-f = open("/Users/michaeltu/Downloads/rosalind_rna (3).txt","r")
+f = open("FILE.txt","r")
 
 sequence = f.read()
 f.close()
