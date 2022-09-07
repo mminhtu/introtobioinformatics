@@ -1,5 +1,5 @@
 
-f = open("/Users/michaeltu/Downloads/rosalind_dna (5).txt", "r")
+f = open("[INSERT FILE]", "r")
 
 sequence = f.read()
 
